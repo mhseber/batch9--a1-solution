@@ -380,3 +380,62 @@ h1 {
 .color {
     color: rgb(255, 0, 0);
 }
+
+/* coming soon section styles */
+.coming-soon {
+    width: 1320px;
+    height: 463px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.coming-soon-first h5 {
+    width: 207px;
+    height: 29px;
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.coming-soon-first h2 {
+    width: 328px;
+    height: 60px;
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.coming-soon-first p {
+    width: 393px;
+    height: 128px;
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.coming-soon-year h3 {
+    width: 126px;
+    height: 58px;
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.coming-soon-year p {
+    width: 276px;
+    height: 96px;
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.coming-soon-year img {
+    width: 140px;
+    height: 140px;
+    margin-top: 30px;
+}
