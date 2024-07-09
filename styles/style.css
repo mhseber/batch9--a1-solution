@@ -439,3 +439,83 @@ h1 {
     height: 140px;
     margin-top: 30px;
 }
+
+/* subscribe section styles */
+.subscribe-section {
+
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 120px 140px;
+
+
+}
+
+.subscribe-img {
+    width: 896px;
+    height: 336px;
+    margin-left: 200px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.subscribe-pg h2 {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.subscribe-pg p {
+    width: 896px;
+    height: 64px;
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+
+.subscribe-input input {
+    width: 648px;
+    height: 72px;
+    border-radius: 50px;
+    background: rgb(255, 255, 255);
+    margin-left: 300px;
+
+}
+
+#placeholder {
+    border-radius: 50px;
+    background: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 400;
+    border: none;
+
+}
+
+.subscribe-input button {
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    border: none;
+
+}
